@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kygL5T7h7hTatJPbdmz7tnqihTU0GRFJ1g2/8otS2l6HJMdDoo1qEK2t74ZhjB7RzYBmXrOUNnEA/h06VVlXXA==",
+  "success": true,
+  "projectFilePath": "C:\\Project C#\\Unit Tests\\Program1_And_Test\\Program_1\\Program_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\nunit3testadapter\\4.2.0\\nunit3testadapter.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
